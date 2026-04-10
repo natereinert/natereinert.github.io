@@ -1,11 +1,17 @@
 #pp  {
 float: right;    
- margin: 0 0 0 15px;
+margin: 0 0 0 15px;
+clip-path: circle(50%);
+width:300px
 }
 
-body {margin:50px;padding:50px}
+body {
+	margin:50px;
+	padding:50px;
+	background-color:#f7f7f7
+}
 
-ul li{
-	font-size:40px;
+ul{
+	font-size:32px;
 	margin: 10px 0;
 }
